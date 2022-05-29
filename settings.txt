@@ -1,0 +1,13 @@
+cold_snap = 1 ;
+ghost_walk = 2 ; 
+tornado = 3 ;
+EMP = 4 ;
+alacrity = 5 ;
+chaos_meteor = 6 ;
+sun_strike = 7 ;
+forge_spirit = 8 ;
+ice_wall = 9 ;
+deafening_blast = 0 ;
+
+
+delay = 0.05 ;
